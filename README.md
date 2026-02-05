@@ -228,3 +228,17 @@ A monitor prints key signals during simulation, allowing observation of:
 ### Simulation End
 
 The simulation is terminated after all test cases complete using the `$finish` system task.
+
+---
+
+### Waveform
+
+<img width="1677" height="322" alt="image" src="https://github.com/user-attachments/assets/346d0c8b-3813-4780-b497-5ab8833b4932" />
+
+
+---
+
+### EDA-PLAYGROUND
+
+https://www.edaplayground.com/x/tDSE
+
