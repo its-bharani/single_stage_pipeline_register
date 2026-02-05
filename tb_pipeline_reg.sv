@@ -28,6 +28,10 @@ module tb_pipeline_reg;
     );
 
     always #5 clk = ~clk;
+    initial begin
+    $dumpvars();
+    $dumpfile("pipeline_reg.vcd");
+  end
 
     initial begin
 
